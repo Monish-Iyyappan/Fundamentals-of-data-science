@@ -47,39 +47,59 @@ The main objectives of this course are:
 
 ---
 
-# 📌 Practical Programs
+# 📌 Practical Topics
 
-## 1. Data Visualization using Matplotlib
-
-Learned how to represent data using different types of plots.
-
-### Concepts:
-- Line Plot
-- Bar Chart
-- Pie Chart
-- Scatter Plot
-- Histogram
-
-Matplotlib was used to visualize data and understand patterns and comparisons.
+1. Data Visualization using Matplotlib
+2. Data Collection and Initial Exploration
+3. Time Series Analysis
+4. Random Sampling and Sampling Distribution
+5. Z-Test
+6. NumPy Array Functions
+7. Pandas Library
+8. Outlier Detection
+9. Handling Missing and Inappropriate Data
+10. Data Preprocessing
+11. Feature Scaling
+12. Exploratory Data Analysis (EDA)
+13. Linear Regression
+14. Logistic Regression
+15. K-Nearest Neighbors (KNN)
+16. K-Means Clustering
 
 ---
 
-## 2. Data Collection and Initial Exploration
+# 📖 Theory Topics
 
-Learned how to load and explore datasets.
+- Data Science
+- Types of Data
+- Data Collection
+- Data Cleaning
+- Data Preprocessing
+- Data Visualization
+- Exploratory Data Analysis
+- Descriptive Statistics
+- Inferential Statistics
+- Sampling
+- Probability
+- Hypothesis Testing
+- Supervised Learning
+- Unsupervised Learning
+- Regression
+- Classification
+- Clustering
+- Model Evaluation
+- Feature Scaling
+- Outlier Detection
+- Overfitting and Underfitting
 
-### Concepts:
-- Creating DataFrames
-- Dataset information
-- Statistical summary
-- Duplicate detection
-- Histograms
-- Basic data exploration
+---
 
-Important Pandas functions:
+## 🎓 Learning Outcome
 
-```python
-df.head()
-df.info()
-df.describe()
-df.duplicated()
+Gained practical knowledge of **Data Science, Data Analysis, Data Visualization, Statistics, Data Preprocessing, and Machine Learning** using Python.
+
+---
+
+## 👨‍💻 Conclusion
+
+This repository contains my **Fundamentals of Data Science practical work and theoretical learning** throughout the course.
